@@ -12,4 +12,4 @@ navbar_button_text: This page on GitHub
 plugins:
   - jekyll-remote-theme
 
-remote_theme: Github-Profile-Achievements/jekyll-theme
+remote_theme: pages-themes/jekyll-theme
